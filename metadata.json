@@ -1,0 +1,5 @@
+{
+  "name": "Microsoft VS Code: The Game",
+  "description": "An arcade shooter set inside the VS Code editor. Defeat bugs, syntax errors, and legacy code monoliths to ship your project!",
+  "requestFramePermissions": []
+}
