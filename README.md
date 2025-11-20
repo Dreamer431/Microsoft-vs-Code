@@ -4,7 +4,7 @@
 
 ### *An Arcade Shooter Set Inside Your Favorite Code Editor*
 
-![VS Code](./vscode.png)
+<img src="./vscode.png" alt="VS Code" />
 
 **English** | [简体中文](./README.zh-CN.md)
 

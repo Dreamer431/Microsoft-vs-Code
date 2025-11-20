@@ -4,7 +4,7 @@
 
 ### *在你最爱的代码编辑器中开启街机射击之旅*
 
-![VS Code](./vscode.png)
+<img src="./vscode.png" alt="VS Code" />
 
 [![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
