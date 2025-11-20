@@ -13,7 +13,14 @@
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**[▶️ Play Now](https://ai.studio/apps/drive/1-yLmG9v681iy1NPWsoG2TamSeBdsFTJ-)** • **[📖 Documentation](#game-mechanics)** • **[🎯 Features](#features)** • **[💻 Development](#development)**
+
+<a href="http://vscode.emerard.me/">
+  <img src="https://img.shields.io/badge/▶️_Play_Now-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1f1f1f" height="50" />
+</a>
+
+<br/>
+
+**[📖 Documentation](#game-mechanics)** • **[🎯 Features](#features)** • **[💻 Development](#development)**
 
 ---
 
@@ -282,7 +289,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🎮 Ready to Debug?
 
-**[Start Playing Now!](https://ai.studio/apps/drive/1-yLmG9v681iy1NPWsoG2TamSeBdsFTJ-)**
+**[Start Playing Now!](http://vscode.emerard.me/)**
 
 Made with ❤️ by developers, for developers
 

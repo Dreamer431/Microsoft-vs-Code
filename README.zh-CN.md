@@ -11,7 +11,14 @@
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**[▶️ 立即游玩](https://ai.studio/apps/drive/1-yLmG9v681iy1NPWsoG2TamSeBdsFTJ-)** • **[📖 文档](#游戏机制)** • **[🎯 特性](#特性)** • **[💻 开发](#开发)**
+
+<a href="http://vscode.emerard.me/">
+  <img src="https://img.shields.io/badge/▶️_立即游玩-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1f1f1f" height="50" />
+</a>
+
+<br/>
+
+**[📖 文档](#游戏机制)** • **[🎯 特性](#特性)** • **[💻 开发](#开发)**
 
 ---
 
